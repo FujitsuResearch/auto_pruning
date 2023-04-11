@@ -10,7 +10,7 @@ Automatic Pruner requires:
 * tqdm  >= 4.62.0
 
 ## Quick start
-1. Prepare the pre-trained model, and the dataset for re-training such as CIFAR-10 and ImageNet.  
+1. Prepare the pre-trained model and the dataset for fine-tuning such as CIFAR-10 and ImageNet.  
 Pre-trained models for example codes can be downloaded from the following links.
 * https://zenodo.org/record/5900671#.Ye-tKOrP38A  (for CIFAR-10)   
 * https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py  (for ImageNet)  
@@ -34,8 +34,8 @@ chmod +x run.sh && ./run.sh
 ```
 
 ### Note: When running inference with pruned model by this code
-The number of channels of pruned model by this code is changed from the model before pruning.
-So, when run inference with pruned model by this code, change the number of channels defined in model file (e.g. `resnet34.py`).
+The number of channels of pruned model is changed from the model before pruning.
+So, when run the inference using the model pruned by this code, please change the number of channels of the pruned model defined in model file (e.g. `resnet34.py`).
 
 ## Results
 <p align="center">
