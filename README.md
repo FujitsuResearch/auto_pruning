@@ -39,5 +39,5 @@ So, when run the inference using the model pruned by this code, please change th
 
 ## Results
 <p align="center">
-<img src="images/results.PNG" width="900">
+<img src="images/result.PNG" width="900">
 </p>
