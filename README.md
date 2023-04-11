@@ -1,4 +1,4 @@
-# Automatic Pruning Rate Derivation for Structured Pruning of Deep Neural Networks
+# Structured pruning with Semi-Automatic Pruning Rate Derivation of Deep Neural Networks
   
 ## Requirements
 
