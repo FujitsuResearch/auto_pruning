@@ -2,7 +2,6 @@
   
 ## Requirements
 
-Automatic Pruner requires:
 * Python 3.6
 * Pytorch  >=1.6
 * Torchvision >= 0.6.0+cu101
