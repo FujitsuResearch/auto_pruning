@@ -9,7 +9,7 @@
 * tqdm  >= 4.62.0
 
 ## Quick start
-1. Prepare the pre-trained model and the dataset for fine-tuning such as CIFAR-10 and ImageNet.  
+1. Prepare the pre-trained model and the dataset for fine-tuning (CIFAR-10, ImageNet).  
 Pre-trained models for example codes can be downloaded from the following links.
 * https://zenodo.org/record/5900671#.Ye-tKOrP38A  (for CIFAR-10)   
 * https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py  (for ImageNet)  
