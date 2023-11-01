@@ -1,4 +1,4 @@
-# Gradient- and Weight-Aware Automatic Structured Pruning for Deep Neural Networks
+# Weight- and Gradient-Aware Automatic Structured Pruning for Deep Neural Networks
   
 ## Requirements
 
