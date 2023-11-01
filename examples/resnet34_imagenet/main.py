@@ -1,4 +1,4 @@
-# main.py COPYRIGHT Fujitsu Limited 2022
+# main.py COPYRIGHT Fujitsu Limited 2023
 
 import argparse
 import os
