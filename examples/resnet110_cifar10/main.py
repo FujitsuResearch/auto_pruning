@@ -1,4 +1,4 @@
-# main.py COPYRIGHT Fujitsu Limited 2022
+# main.py COPYRIGHT Fujitsu Limited 2023
 
 from argparse import ArgumentParser
 from collections import OrderedDict
