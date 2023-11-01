@@ -1,4 +1,4 @@
-# auto_prune_cifar10.py COPYRIGHT Fujitsu Limited 2022
+# auto_prune_cifar10.py COPYRIGHT Fujitsu Limited 2023
 
 from collections import OrderedDict
 import copy
