@@ -1,4 +1,4 @@
-# resnet32.py COPYRIGHT Fujitsu Limited 2022
+# resnet32.py COPYRIGHT Fujitsu Limited 2023
 
 import torch
 import torch.nn as nn
